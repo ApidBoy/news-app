@@ -1,0 +1,240 @@
+{
+    "status": "ok",
+    "totalResults": 18,
+    "articles": [
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "‘Supercookies’ Have Privacy Experts Sounding the Alarm",
+            "description": "A German ad-tech trial features what Vodafone calls “digital tokens.” Should you be worried?",
+            "url": "https://www.wired.com/story/trustpid-digital-token-supercookie",
+            "urlToImage": "https://media.wired.com/photos/62bb25b22d121fa443291b7f/191:100/w_1280,c_limit/Supercookies_Science_GettyImages-1194303228.jpg",
+            "publishedAt": "2022-06-28T16:05:21Z",
+            "content": "Customers of some phone companies in Germany, including Vodafone and Deutsche Telekom, have had a slightly different browsing experience from those on other providers since early April. Rather than s… [+3251 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "Berkshire Grey, Locus Robotics and Zebra Technologies discuss warehouse automation at TC Sessions: Robotics",
+            "description": "It would be foolhardy to describe any tech sector as immune from the recent slowdown in venture funding. Yet robotics is doing better than most, with startups reaping more than $5 billion in the first 5 months of 2022. You don’t have to dig much further to di…",
+            "url": "https://techcrunch.com/2022/06/28/berkshire-grey-locus-robotics-and-zebra-technologies-discuss-warehouse-automation-s-at-tc-sessions-robotics/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_Warehouse_robotics.jpg?w=764",
+            "publishedAt": "2022-06-28T15:30:04Z",
+            "content": "It would be foolhardy to describe any tech sector as immune from the recent slowdown in venture funding. Yet robotics is doing better than most, with startups reaping more than $5 billion in the firs… [+2539 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "The Verge Staff",
+            "title": "How Creators Get Paid Online",
+            "description": "From artists going viral on TikTok to blacksmiths resurrecting age-old techniques on YouTube, creative types are utilizing modern internet platforms to turn their passions into careers.",
+            "url": "https://www.theverge.com/23148534/creators-getting-paid-online-tiktok-youtube-fortnite-patreon",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/2KJ9ZbS5GwNJQ2Qx35bJX93tcnU=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23598515/VRG_Illo_5253_J_Sitter_lede.jpg",
+            "publishedAt": "2022-06-28T14:07:54Z",
+            "content": "The internet has made it easier than ever for artists to get their work in front of a large audience the trick is making that a viable career. This collection of stories explores how creatives from v… [+405 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Aki Ito",
+            "title": "Great Resignation spurs tech companies to move high-paying jobs abroad",
+            "description": "A shortage of US applicants and the rise of remote work are driving Silicon Valley to try something new: offshoring engineering jobs to developing economies.",
+            "url": "http://www.businessinsider.com/great-resignation-tech-companies-offshoring-engineering-jobs-globalization-remote-2022-6",
+            "urlToImage": "https://i.insider.com/62b9e074a8ac190019a7ba54?width=1200&format=jpeg",
+            "publishedAt": "2022-06-28T09:00:00Z",
+            "content": "The payroll startup Deel is headquartered in San Francisco, but the 21 engineering jobs it's looking to fill aren't based there. They probably won't even be based in the US. Deel has an idea of where… [+10838 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider-uk",
+                "name": "Business Insider (UK)"
+            },
+            "author": "Aki Ito",
+            "title": "Great Resignation spurs tech companies to move high-paying jobs abroad",
+            "description": "A shortage of US applicants and the rise of remote work are driving Silicon Valley to try something new: offshoring engineering jobs to developing economies.",
+            "url": "http://uk.businessinsider.com/great-resignation-tech-companies-offshoring-engineering-jobs-globalization-remote-2022-6",
+            "urlToImage": "https://i.insider.com/62b9e074a8ac190019a7ba54?width=1200&format=jpeg",
+            "publishedAt": "2022-06-28T09:00:00Z",
+            "content": "The payroll startup Deel is headquartered in San Francisco, but the 21 engineering jobs it's looking to fill aren't based there. They probably won't even be based in the US. Deel has an idea of where… [+10838 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Auf diese sechs Startups wettet Fintech-Pionier Ramin Niroumand",
+            "description": "Junge Fintech-Hoffnungen, darauf legt der frühere Finleap-Macher seinen Fokus. Einige der Gründer kennt er bereits gut.",
+            "url": "https://www.businessinsider.de/gruenderszene/fintech/ramin-niroumand-embedded-capital-investments/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2017/07/Ramin_Niroumand_CoFounder_FinLeap.jpg",
+            "publishedAt": "2022-06-28T06:00:00+00:00",
+            "content": "Auf diese sechs Startups wettet Fintech-Pionier Ramin Niroumand\r\nJunge Fintech-Hoffnungen, darauf legt der frühere Finleap-Macher seinen Fokus. Im Portfolio seines VCs Embedded Capital finden sich au… [+1304 chars]"
+        },
+        {
+            "source": {
+                "id": "medical-news-today",
+                "name": "Medical News Today"
+            },
+            "author": "Clarissa Brincat",
+            "title": "Researchers develop virus-fighting face masks, killing germs on contact",
+            "description": "The antimicrobial polymer-coating process developed by researchers at Rensselaer Polytechnic Institute (RPI) can be applied to existing mask filters.",
+            "url": "http://www.medicalnewstoday.com/articles/researchers-develop-virus-fighting-face-masks-killing-germs-on-contact",
+            "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/06/face_masks_GettyImages1321009849_Thumb.jpg",
+            "publishedAt": "2022-06-27T22:23:31Z",
+            "content": "<ul><li>Traditional face masks, including N95s and KN95s, offer protection against illness and infection but must be disposed of once they come in contact with viruses, thus generating significant pl… [+5099 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Cate Lawrence",
+            "title": "Work in tech? Here’s 6 ways you can support and protect reproductive rights",
+            "description": "Friday saw the overturning of Roe V Wade, giving US state governments the right to restrict abortion or ban it altogether. \r\n\r\nThe result is a massive loss of bodily autonomy for women, ...",
+            "url": "http://thenextweb.com/news/how-to-join-the-pro-choice-fight-for-safe-legal-abortion",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FUntitled-design-2022-06-27T164355.268.png&signature=38af71d84c1c980d4083d1c6d98168a5",
+            "publishedAt": "2022-06-27T14:53:40Z",
+            "content": "Friday saw the overturning of Roe V Wade, giving US state governments the right to restrict abortion or ban it altogether. \r\nThe result is a massive loss of bodily autonomy for women, trans, and non-… [+5439 chars]"
+        },
+        {
+            "source": {
+                "id": "the-next-web",
+                "name": "The Next Web"
+            },
+            "author": "Alejandro Tauber",
+            "title": "How to bootstrap your startup with €50K - €200K of European funding",
+            "description": "In my previous job at a startup based in Amsterdam, my job description was – how to put this – ‘flexible’. As a non-technical member of a company developing a new kind of scalable, ...",
+            "url": "http://thenextweb.com/news/how-to-bootstrap-startup-european-funding",
+            "urlToImage": "https://img-cdn.tnwcdn.com/image/growth-quarters?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Ffunding-EU.jpeg&signature=3a7eb28926469126828482a79c76bb83",
+            "publishedAt": "2022-06-27T08:42:13Z",
+            "content": "In my previous job at a startup based in Amsterdam, my job description was how to put this flexible. As a non-technical member of a company developing a new kind of scalable, real-time graph database… [+7598 chars]"
+        },
+        {
+            "source": {
+                "id": "next-big-future",
+                "name": "Next Big Future"
+            },
+            "author": "Brian Wang",
+            "title": "A Fundamental Shift: The March to a Meatless Future is Now Unstoppable | NextBigFuture.com",
+            "description": "High-tech plant-based 3D printed meat is the ‘gamechanger’ we’ve been waiting for.",
+            "url": "https://www.nextbigfuture.com/2022/06/a-fundamental-shift-the-march-to-a-meatless-future-is-now-unstoppable.html",
+            "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2022/06/meatfuture.jpeg",
+            "publishedAt": "2022-06-23T15:27:21Z",
+            "content": "High-tech plant-based 3D printed meat is the gamechanger weve been waiting for.\r\nAfter a run of good press and some bold predictions, the alt-meat naysayers have begun an inevitable backlash. The Fin… [+5444 chars]"
+        },
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": "Jörn Brien",
+            "title": "Quantenakku soll E-Autos in Sekunden voll laden können",
+            "description": "Akkus von E-Autos könnten dank Quantentechnologie künftig in Sekunden statt in Stunden geladen werden – wie je",
+            "url": "https://t3n.de/news/quantenakku-e-auto-schnell-laden-1461272/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2022/03/E-Auto-Quantenakku-Schnellladen.jpg",
+            "publishedAt": "2022-03-24T13:45:54Z",
+            "content": "Der Begriff Schnellladestation könnte mit Quantentechnologie eine neue Dimension bekommen. Quantenakkus gelten als vielversprechend für hohe Ladegeschwindigkeiten und die Speicherung von Energie  bis… [+2018 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": null,
+            "title": "Brand Loyalty Revolution by Oracle Advertising and CX",
+            "description": "How technology is changing the customer relationship game",
+            "url": "https://www.newsweek.com/sponsored/brand-loyalty-revolution-oracle-advertising-cx",
+            "urlToImage": "https://d.newsweek.com/en/full/1987118/oracle-advertising-cx-sq.jpg",
+            "publishedAt": "2022-02-16T19:17:44Z",
+            "content": "Brand Loyalty Revolution\r\nIn a world of more choice and increased consumer spending, brands are using creative solutions to grab customers' attention and keep them engaged. While shoppers seek out co… [+467 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "How to Choose a Router (2022): Tips, Technical Terms, and Advice",
+            "description": "How much speed do you need? And what’s a MU-MIMO? We decipher the jargon and explain what to look for.",
+            "url": "https://www.wired.com/story/how-to-buy-a-router",
+            "urlToImage": "https://media.wired.com/photos/62b5f706600b0ec42e8fdf24/191:100/w_1280,c_limit/TP-Link-Archer-AX55-Gear.jpg",
+            "publishedAt": "2021-08-16T12:00:00Z",
+            "content": "Everyone wants reliable and fast internet, and a good router can help. The trick is to work out how the complicated mess of standards, confusing acronyms, and sci-fi-sounding features translate to be… [+6824 chars]"
+        },
+        {
+            "source": {
+                "id": "spiegel-online",
+                "name": "Spiegel Online"
+            },
+            "author": "Spiegel Online",
+            "title": "Neuer Quds-Kommandeur Ghaani: Technokrat des Terrors",
+            "description": "Der iranische Topgeneral Qasem Soleimani war keine 24 Stunden tot, da präsentierte Iran seinen Nachfolger: Ismail Ghaani. Warum der die Schattenkrieger der Quds-Brigade anders führen wird - ihr Ziel aber das gleiche bleibt.",
+            "url": "http://www.spiegel.de/politik/ausland/iran-ismail-ghaani-ist-neuer-chef-der-quds-brigade-a-1303791.html",
+            "urlToImage": "https://cdn1.spiegel.de/images/image-1503554-860_poster_16x9-uduu-1503554.jpg",
+            "publishedAt": "2020-01-07T18:09:00Z",
+            "content": "Dienstag, 07.01.2020  \r\n19:09 Uhr\r\nDer Mann, den das iranische Staatsfernsehen am Montag zeigt, trägt eine schlichte olivgrüne Uniform, er weint, kniet sich nieder - und küsst den vor ihm aufgebarten… [+4031 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "王博源",
+            "title": "TechCrunch 中文版的 2019 不严肃年度好物推荐 | TechCrunch 中文版",
+            "description": "https://www.youtube.com/watch?v=EavTye99eZA\r\n\r\n \r\n\r\n2019年就要过去了，各位觉得这一年过得怎么样呢？（崔健曰：凑合！）今年我们再次向TechCrunch中英文作者、编辑、翻译发出邀请，整理2019年对他们有积极影响的身外之物，顺便托物言志谈谈自己的这一年。虽然我们是科技创投媒体，不过推荐的东西不一定和科技有关，也没有任何厂商业配置入，请大家放心。\r\n鹏辉，TechCrunch 中文版作者\r\n死亡搁浅\r\n\r\n\r\n\r\n今年争议最大的游戏。有人觉得这是乏味的步行…",
+            "url": "https://techcrunch.cn/2019/12/27/techcrunchcns-favorite-things-of-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2018/12/techcrunch-fav.png?w=1200",
+            "publishedAt": "2019-12-27T18:58:22Z",
+            "content": "2019 TechCrunch 2019 \r\nTechCrunch \r\nBT Fus Ro Dahhhh \r\nBose QC20i\r\nAirPods Pro QC20i AirPods Pro QC20i QC20i\r\n·Erik Hagerman\r\n2018 5G telegram rss slack ···\r\n 20192020 \r\nRitaTechCrunch \r\n by \r\napp \r\n… [+852 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Brian Heater",
+            "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+            "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+            "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+            "publishedAt": "2019-12-27T16:46:58Z",
+            "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Brian Heater",
+            "title": "土耳其法院裁定政府封锁维基百科违宪 | TechCrunch 中文版",
+            "description": "在被土耳其政府封锁两年半之后，维基百科似乎收到了刑罚终止令。本周，土耳其宪法法院裁定，该国政府在2017年4月颁布的维基百科禁令侵犯了公民的言论自由。\r\n\r\n从2017年5月开始，维基媒体基金会（Wikimedia Foundation）就一直在对禁令提出抗辩。在土耳其宪法法院的表决中，法官以10比6的投票结果裁定禁令违宪，这有望恢复土耳其用户对维基百科的访问。\r\n\r\n2017年，土耳其成为全球第二个完全禁止访问维基百科的国家，因为维基百科上有条目声称土耳其跟伊斯兰国（ISIS）以及其他恐怖组织存在联系。土耳其政…",
+            "url": "https://techcrunch.cn/2019/12/27/wikipedia-ban-ruled-unconstitutional-by-turkish-court/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-528784450.jpg?w=1024",
+            "publishedAt": "2019-12-27T12:08:04Z",
+            "content": "2017 4 \r\n 2017 5 Wikimedia Foundation 10 6 \r\n2017 ISIS “”\r\n·Jimmy Wales Twitter “” \r\n“” “”\r\n James Leynse / Contributor / Getty Images\r\n@\r\nWikipedia ban ruled unconstitutional by Turkish court"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Manish Singh",
+            "title": "印度本土移动应用崛起，中国产应用滑坡 | TechCrunch 中文版",
+            "description": "一段时间以来，来自中国开发者的应用在印度的应用商店一直很受欢迎。去年，在印度排名前100的Android应用中，有多达44个是由中国公司开发的。\r\n\r\n然而随着当地开发者参与竞争，今年的情况已发生变化。根据应用分析和营销公司AppsFlyer的数据，印度产应用作为一个整体正在恢复最初的地位。\r\n\r\n报告显示，今年第二和第三季度，在谷歌Play和苹果App Store印度版排名前200的应用中，有41%是印度的开发者和本地公司开发的，高于去年的38%。另一家研究公司App Annie的数据也给予了证实。\r\n\r\n报告…",
+            "url": "https://techcrunch.cn/2019/12/26/chinese-apps-are-losing-their-hold-on-india-to-local-developers/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-578069624.jpg?w=1200",
+            "publishedAt": "2019-12-26T10:17:25Z",
+            "content": "Data from @AppsFlyer state of App Marketing 2019 India – key highights: – Indian Apps claimed more installs in 2019 vs chinese Apps– Apps in finance category spent the most in non-organic install (ea… [+152 chars]"
+        }
+    ]
+}
