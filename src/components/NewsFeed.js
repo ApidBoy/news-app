@@ -83,7 +83,7 @@ export class newsFeed extends Component {
                                 <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Top headlines - NewsApp</h1>
                                 <div className="h-1 w-20 bg-red-500 rounded"></div>
                             </div>
-                        <p className="lg:w-1/2 w-full leading-relaxed text-gray-500">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom prism food truck ugh squid celiac humblebrag.</p>
+                        <p className="lg:w-1/2 w-full leading-relaxed text-gray-500">A simple news app which fetches latest news from NewsAPI and displays them beautifully and categorizes them. You can also change the country from selecting it from the navbar menu. <br/> Made with React and ❤️ by <a className="text-red-500" style={{textDecoration: "none"}} target="_blank" rel="noreferrer" href="https://github.com/ApidBoy">ApidBoy</a></p>
                         </div>
                         {this.state.loading && <Loading />}
                         {!this.state.loading && <div className="flex flex-wrap -m-4">
